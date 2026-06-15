@@ -157,7 +157,7 @@ Por este motivo, los nombres de países ingresados por el usuario no deben conte
 
 Link al video:
 
-[PENDIENTE DE AGREGAR]
+https://drive.google.com/file/d/1fRjEh8EHgA2S_mARN1tDcDoPl5cpO4r5/view?usp=sharing
 
 ---
 
