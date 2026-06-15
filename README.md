@@ -164,11 +164,11 @@ Link al video:
 ## Documentación PDF
 
 Link al informe:
-[\[PENDIENTE DE AGREGAR\]](https://docs.google.com/document/d/11rOId6AMKF7aLQShJKWgtFCFSpVatPdo/edit)
+https://docs.google.com/document/d/11rOId6AMKF7aLQShJKWgtFCFSpVatPdo/edit
 
 ---
 
 ## Repositorio
 
 Link al repositorio:
-[\[PENDIENTE DE AGREGAR\]](https://github.com/guadapereyram/tpi-programacion1)
+https://github.com/guadapereyram/tpi-programacion1
